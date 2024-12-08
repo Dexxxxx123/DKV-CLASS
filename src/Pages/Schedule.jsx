@@ -27,11 +27,11 @@ const Schedule = () => {
   }, []);
 
   const piketGroup = [
-    ["SUSI", "MEKA", "YANDE"], // Monday
-    ["OKA", "WIJAYA", "LODANG"], // Tuesday
-    ["DWIKA", "NGAKAN NYOMAN", "AGUS"], // Wednesday
-    ["ARYA", "PRADANA", "GUNGDE"], // Thursday
-    ["DESTA", "DIAH", "ARY SURYA"], // Friday
+    ["Adi", "Rifan", "Ridwan"], // Monday
+    ["-", "-", "-"], // Tuesday
+    ["-", "-", "-"], // Wednesday
+    ["-", "-", "-"], // Thursday
+    ["-", "-", "-"], // Friday
   ];
 
   const dayComponents = [
