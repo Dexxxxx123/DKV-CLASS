@@ -16,8 +16,8 @@ const Footer = () => {
                             <h2 className="mb-4 text-sm font-semibold uppercase text-white">Edited by</h2>
                             <ul className="text-gray-400 dark:text-gray-400 font-medium">
                                 <li className="mb-2">
-                                    <a href="https://www.instagram.com/madewijaya072" className="hover:underline">
-                                        Ducky
+                                    <a href="https://www.instagram.com/_dex4xxx07" className="hover:underline">
+                                        Adi (Dex)
                                     </a>
                                 </li>
                             </ul>
@@ -57,7 +57,7 @@ const Footer = () => {
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <div className="flex mt-4 justify-center sm:mt-0">
                         <p className="text-[0.7rem] text-white opacity-70">
-                            © {new Date().getFullYear()} Kelas XII DKV | Di Kelola Oleh Siswa DKV
+                            © {new Date().getFullYear()} Kelas X DKV 2 | Di Kelola Oleh Siswa X DKV 2
                         </p>
                     </div>
                     <div className="flex mt-4 justify-center sm:mt-0">
