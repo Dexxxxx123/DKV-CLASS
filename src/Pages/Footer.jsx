@@ -26,7 +26,7 @@ const Footer = () => {
                             <h2 className="mb-4 text-sm font-semibold uppercase text-white">Follow us</h2>
                             <ul className="text-gray-400 dark:text-gray-400 font-medium">
                                 <li className="mb-2">
-                                    <a href="https://www.instagram.com/dkv.officiall" className="hover:underline ">
+                                    <a href="https://www.instagram.com/voyagerclass_?igsh=eWJ3MG15NWs3aDVj" className="hover:underline ">
                                         Instagram
                                     </a>
                                 </li>
