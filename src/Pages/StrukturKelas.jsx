@@ -66,7 +66,7 @@ const StrukturKelas = () => {
 				{/* wakil dan ketua */}
 				<div className="flex relative top-[-3rem]" data-aos="fade-up" data-aos-duration="1200">
 					<div className="relative left-[0.2rem]">
-						<BorderStruktur Jabatan="KETUA KELAS" Nama="Muh. Aditya Rifaldin" Width="120px" />
+						<BorderStruktur Jabatan="KETUA KELAS" Nama="M. Aditya Rifaldin" Width="120px" />
 					</div>
 					<img src="LineHorizontalPendek.svg" className="relative top-3" />
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
@@ -136,7 +136,7 @@ const StrukturKelas = () => {
 						<BorderStruktur Jabatan="BENDAHARA 1" Nama="Puput Aulia Wardani" Width="130px" />
 					</div>
 					<div className="flex-col">
-						<BorderStruktur Jabatan="BENDAHARA 1 & 2" Nama="Putri Julia Ningsih" Width="130px" />
+						<BorderStruktur Jabatan="BENDAHARA 2" Nama="Putri Julia Ningsih" Width="130px" />
 					</div>
 				</div>
 
@@ -199,20 +199,20 @@ const StrukturKelas = () => {
 					data-aos-duration="1100">
 					<div className="flex-col">
 						<BorderStruktur Jabatan="MEMBER" Nama="Afdan" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Alif" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Afgan" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Alif Alfarizi" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Afgan Sahreza" Width="120px" />
 					</div>
 
 					<div className="flex-col lg:hidden lg: flex">
-						<BorderStruktur Jabatan="MEMBER" Nama="Afrian" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Alvin" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Jumadil" Width="120px" />
+						<BorderStruktur Jabatan="MEMBER" Nama="Afrian Armadi" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Alvin Riziq Putra" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Daris Wansak" Width="120px" />
 					</div>
 
 					<div className="flex-col hidden lg:flex">
-						<BorderStruktur Jabatan="MEMBER" Nama="Fitri" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Priska" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Fiha" Width="120px" />
+						<BorderStruktur Jabatan="MEMBER" Nama="Fahril Pratama" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Fiha Ainun H." Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Faujan Aqso" Width="120px" />
 						<div className="py-[0%]"></div>
 					</div>
 				</div>
@@ -264,15 +264,19 @@ const StrukturKelas = () => {
 					data-aos="fade-up"
 					data-aos-duration="1100">
 					<div className="flex-col">
-						<BorderStruktur Jabatan="MEMBER" Nama="Rafkah" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Hijrl" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Fahril" Width="120px" />
+						<BorderStruktur Jabatan="MEMBER" Nama="Hasby Ash Shidiqin" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Humayrah" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="M. Haikal Pratama" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="M. Yusuf Al Risķi" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Muh. Ainun Rahma" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="M. Hijrl" Width="120px" />
+				
 					</div>
 
 					<div className="flex-col">
-						<BorderStruktur Jabatan="MEMBER" Nama="Lana" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Haerul" Width="120px" />
-						<BorderStruktur Jabatan="" Nama="Aggam" Width="120px" />
+						<BorderStruktur Jabatan="MEMBER" Nama="M. Putra Ramadhan." Width="120px" />
+						<BorderStruktur Jabatan="" Nama="M. Maulana Ishak" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Melina Putri" Width="120px" />
 					</div>
 				</div>
 
@@ -285,9 +289,11 @@ const StrukturKelas = () => {
 						<img src="LineVertikal3.svg" alt="" />
 						<img src="Circle.svg" alt="" className="relative top-[-0.7rem]" />
 						<div className="relative bottom-3">
-							<BorderStruktur Jabatan="MEMBER" Nama="Zihan" Width="120px" />
-							<BorderStruktur Jabatan="" Nama="Rifan" Width="120px" />
-							<BorderStruktur Jabatan="" Nama="Daris, Riski" Width="120px" />
+					  	  <BorderStruktur Jabatan="MEMBER" Nama="Rafkah Aditya" Width="120px" />
+						  <BorderStruktur Jabatan="" Nama="Rifan Junaidin" Width="120px" />
+						  <BorderStruktur Jabatan="" Nama="Supriadin Putra" Width="120px" />
+						  <BorderStruktur Jabatan="" Nama="Zihan Fahira" Width="120px" />
+						
 						</div>
 					</div>
 				</div> }
